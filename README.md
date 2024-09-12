@@ -80,6 +80,9 @@ The analysis identified trends in layoffs by year and company:
 
 ### Visualization
 
+[image](https://github.com/user-attachments/assets/28716091-9384-451a-89d7-8b16c6ac6823)
+
+
 [Click here to view the visualizations of the results]()
 
 
