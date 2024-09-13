@@ -80,7 +80,7 @@ The analysis identified trends in layoffs by year and company:
 
 ### Visualization
 
-[Click here to view the visualizations of the results](https://github.com/Indumathi12/Sql_Projects/blob/main/portfolio_bi_report1.pbix)
+[Click here to view the visualizations of the results](https://github.com/Indumathi12/Sql_Projects/blob/main/portfolio_bi_report2.pdf)
 
 
 
