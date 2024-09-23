@@ -10,7 +10,7 @@ The Data Analysis Project focuses on providing insights into global layoffs that
 
 Layoff Data: The primary dataset used for this analysis is the 'layoffs.csv' file, which contains detailed information on layoffs by country, industry, and year.
 
-[Download here]([https://github.com/Indumathi12/Sql_Projects/blob/main/layoffs.csv])
+[Download here](https://github.com/Indumathi12/Sql_Projects/blob/main/layoffs.csv)
 
 
 ### Tools Used:
